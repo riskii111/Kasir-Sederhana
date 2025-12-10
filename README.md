@@ -44,4 +44,5 @@ Program **Kasir Sederhana** ini dibuat menggunakan bahasa C++ dan dirancang untu
 
 ## 🧮 Contoh Output (Struk)
 
+<img width="325" height="371" alt="image" src="https://github.com/user-attachments/assets/0ce92659-37b8-419c-afb2-e18e6a52cc4a" />
 
